@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hopeIsCo0l
+- 👋 Hi, I’m @hopeIsCo0l aka
 - 👀 I’m interested in problems 
 - 🌱 I’m currently learning Django 
 - 💞️ I’m looking to collaborate on Inventory Management API
